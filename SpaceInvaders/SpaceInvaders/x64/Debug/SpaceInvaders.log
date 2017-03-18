@@ -1,17 +1,21 @@
-﻿  game.cpp
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(20): error C2065: 'shot': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(37): error C2065: 'baza': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(68): error C2065: 'playerx': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(69): error C2065: 'playery': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(70): error C2065: 'shot': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(71): error C2065: 'baza': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(73): error C2065: 'start': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(76): error C2065: 'oponenty': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(77): error C2065: 'oponentx': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(144): error C2065: 'playerx': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(145): error C2065: 'playery': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(146): error C2065: 'shot': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(147): error C2065: 'baza': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(149): error C2065: 'start': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(152): error C2065: 'oponenty': undeclared identifier
-d:\projects\spaceinvaders\spaceinvaders\game.cpp(153): error C2065: 'oponentx': undeclared identifier
+﻿  stdafx.cpp
+  SpaceInvaders.cpp
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\spaceinvaders.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game.cpp
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(20): error C2065: 'shot': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(37): error C2065: 'baza': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(68): error C2065: 'playerx': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(69): error C2065: 'playery': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(70): error C2065: 'shot': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(71): error C2065: 'baza': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(73): error C2065: 'start': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(76): error C2065: 'oponenty': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(77): error C2065: 'oponentx': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(144): error C2065: 'playerx': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(145): error C2065: 'playery': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(146): error C2065: 'shot': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(147): error C2065: 'baza': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(149): error C2065: 'start': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(152): error C2065: 'oponenty': undeclared identifier
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\game.cpp(153): error C2065: 'oponentx': undeclared identifier
+  Generating Code...
