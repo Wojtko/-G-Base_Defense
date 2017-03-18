@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  SpaceInvaders.cpp
+c:\users\wojtko\documents\github\game\spaceinvaders\spaceinvaders\spaceinvaders.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SpaceInvaders.vcxproj -> C:\Users\Wojtko\Documents\GitHub\Game\SpaceInvaders\Debug\SpaceInvaders.exe
+  SpaceInvaders.vcxproj -> C:\Users\Wojtko\Documents\GitHub\Game\SpaceInvaders\Debug\SpaceInvaders.pdb (Full PDB)
