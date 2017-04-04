@@ -53,7 +53,8 @@ int main()
 	//G³ówna pêtla
 	for (int i = 0; i <= 1; i--)
 	{
-		system("cls");
+		COORD cur = { 0, 0 };
+		SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), cur);
 		//Load
 		for (int y = 19; y >= 0; y--)
 		{
